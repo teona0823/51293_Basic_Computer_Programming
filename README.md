@@ -2,7 +2,7 @@
 ## Project Goal
 Implementing Tetris Game With C language.
 
-Original Source Code: <https://blog.naver.com/azure0777>
+Original Source Code: <https://blog.naver.com/azure0777/220295388741>
 
 ## Period
 2023 Spring Semester
