@@ -1,17 +1,17 @@
-# Basic Computer Programming (51293) - Term Project
-## Project Goal
+# 💻 Basic Computer Programming (51293) - Term Project
+## 🎯 Project Goal
 Implementing Tetris Game With C language.
 
 Original Source Code: <https://blog.naver.com/azure0777/220295388741>
 
-## Period
+## 🕰️ Period
 2023 Spring Semester
 
 Mar. 2nd. 2023 (Thu) ~ Jun. 7th. 2023 (Wed)
 
 **Project Presentation:** Jun. 8th. 2023 (Thu)
 
-## Members
+## 🧑‍💻 Members
 **Bomin Moon (20232#59)** (Me)
 
 Jingyu Maeng (20232#73)
@@ -20,7 +20,7 @@ Kanghyun Park (20231#30)
 
 Sejin Park (20236#50)
 
-## Functions
+## ⚙️ Functions
 ### 1. Item Shop
 #### When you Press V key, you can purchase game items!
 When you play games, coin ($) will be collected.
